@@ -13,6 +13,14 @@ export default class Skills extends Component {
                         </div>
                     </div>
                     <div className="row">
+                    <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+							<p>These are some of the skills I've acquired over the years and I hope to get better at those and learn new 
+                                ones. My Resume (CV) has a more exhaustive list. This is a general overview on what technology stack 
+                                I have been using recently.
+                            </p>
+						</div>
+
+
                         <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                             <div className="progress-wrap">
                                 <h3>C#</h3>
@@ -35,7 +43,7 @@ export default class Skills extends Component {
                         </div>
                         <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                             <div className="progress-wrap">
-                                <h3>C++/Rust</h3>
+                                <h3>C++/Rust/Python</h3>
                                 <div className="progress">
                                     <div className="progress-bar color-3" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width : "80%"}}>
                                         {/* <span>85%</span> */}

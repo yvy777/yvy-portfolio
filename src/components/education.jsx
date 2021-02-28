@@ -24,7 +24,7 @@ export default class Education extends Component {
                                         </div>
                                         <div id="collapseTwo" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                             <div className="panel-body">
-                                                <p>Completed my University at <strong>"University of Sherbrooke."</strong></p>
+                                                <p>Completed my BSc in computer Science at the <strong>"University of Sherbrooke. (2016-2020)"</strong></p>
                                                 <ul>
                                                     <li>COOP profile(Cooperative education)</li>
                                                     <li>Completed 4 interships</li>
@@ -42,7 +42,7 @@ export default class Education extends Component {
                                         </div>
                                         <div id="collapseFour" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                                             <div className="panel-body">
-                                                <p>Completed my Diploma of College Studies (DEC) at <strong>"Cegep of Sherbrooke".</strong></p>
+                                                <p>Completed my Diploma of College Studies (DEC) at the <strong>"Cegep of Sherbrooke".</strong></p>
                                             </div>
                                         </div>
                                     </div>
