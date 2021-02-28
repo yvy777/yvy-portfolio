@@ -13,7 +13,7 @@ export default class Projects extends Component {
 					</div>
 					<div className="row">
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-							<div className="project" style={{ backgroundImage: 'url(images/img-1.jpg)' }}>
+							<div className="project" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/img-1.jpg'})` }}>
 								<div className="desc">
 									<div className="con">
 										<h3><a href="work.html">Ubisoft Contest 2019</a></h3>
@@ -28,7 +28,7 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-							<div className="project" style={{ backgroundImage: 'url(images/img-2.jpg)' }}>
+							<div className="project" style={{ backgroundImage:  `url(${process.env.PUBLIC_URL + '/images/img-2.jpg'})`  }}>
 								<div className="desc">
 									<div className="con">
 										<h3><a href="work.html">Retro game look-alike made in Unity</a></h3>
@@ -43,7 +43,7 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-							<div className="project" style={{ backgroundImage: 'url(images/img-3.jpg)' }}>
+							<div className="project" style={{ backgroundImage:  `url(${process.env.PUBLIC_URL + '/images/img-3.jpg'})`  }}>
 								<div className="desc">
 									<div className="con">
 										<h3><a href="work.html">Work 03</a></h3>
@@ -58,7 +58,7 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-							<div className="project" style={{ backgroundImage: 'url(images/img-4.jpg)' }}>
+							<div className="project" style={{ backgroundImage:  `url(${process.env.PUBLIC_URL + '/images/img-4.jpg'})`  }}>
 								<div className="desc">
 									<div className="con">
 										<h3><a href="work.html">Work 04</a></h3>

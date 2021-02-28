@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-
 export default class Sidebar extends Component {
   render() {
     return (
@@ -9,7 +8,7 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{ backgroundImage: 'url(images/avatar-profile.jpg)' }} />
+              <div className="author-img" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/avatar-profile.jpg'})` }} />
               <h1 id="colorlib-logo"><a href="index.html">Yvan Tran</a></h1>
               <span className="position">Software developper</span>
             </div>
