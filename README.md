@@ -28,3 +28,13 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+Steps to deploy:
+See the section about https://dzone.com/articles/how-to-deploy-react-apps-for-free-with-github-page
+
+### npm install gh-pages --save-dev
+
+### npm run deploy
+
+
+
