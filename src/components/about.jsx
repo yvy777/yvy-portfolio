@@ -39,8 +39,8 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Web Development</h3>
-                                        <p>I have experience building websites right now using Angular and typescript but have worked
-                        on projects using JavaScript, React, Kotlin, HTML, CSS in the past.</p>
+                                        <p>Currently, my workplace is using angular and typescript for applications. However I have experience
+                        on projects using JavaScript, React, Kotlin, HTML, CSS.</p>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Games and emulator</h3>
-                                        <p>As personal projects, i've been trying multiple ways of learning while having fun.
+                                        <p>As personal projects, I've been trying multiple ways of learning while having fun.
                                         Some of them includes projects in unity (see projects) and a basic emulator.
                                         </p>
                                     </div>
