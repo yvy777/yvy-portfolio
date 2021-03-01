@@ -79,7 +79,7 @@
      float: left;
      width: 300px;
      position: fixed;
-     overflow-y: scroll;
+     overflow: auto;
      z-index: 1001;
      background: #f2f3f7;
      -webkit-transition: 0.5s;
@@ -185,7 +185,7 @@
 }
  #colorlib-aside #colorlib-main-menu ul li a:hover {
      text-decoration: none;
-     color: black;
+     color: #2c98f0;
 }
  #colorlib-aside #colorlib-main-menu ul li a:hover:after {
      visibility: visible;
@@ -261,7 +261,7 @@
 }
  #colorlib-hero {
      min-height: 500px;
-     background: #fff url(../images/loader.gif) no-repeat center center;
+     /* background: #fff url(../images/loader.gif) no-repeat center center; */
      width: 100%;
      float: left;
      margin-bottom: 1em;
