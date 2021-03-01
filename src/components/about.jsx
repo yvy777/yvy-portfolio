@@ -10,6 +10,11 @@ export default class About extends Component {
                             <div className="col-md-12">
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
+                                        <div id="top" className="scrolldown">
+                                            <a className="smoothscroll" href="#bottom">
+                                                <i className="icon-arrow-down-outline"></i>
+                                            </a>
+                                        </div>
                                         <div className="about-desc">
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
@@ -64,9 +69,9 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Databases</h3>
-                                        <p> I've also been acustomed via my internships, school and current workplace with 
-                                            working with multiple databases such as T-SQL, MySQL, PostgreSQL or MongoDB
-                                            etc. 
+                                        <p> I've also been acustomed via my internships, school and current workplace with
+                                        working with multiple databases such as T-SQL, MySQL, PostgreSQL or MongoDB
+                                        etc.
                                         </p>
                                     </div>
                                 </div>
