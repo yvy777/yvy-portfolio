@@ -14,7 +14,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/chip8.jpg'})` }}>
+								<div className="project" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/Chip8.jpg'})` }}>
 									<div className="desc">
 										<div className="con">
 											<h3>Chip 8 emulator (On-going)</h3>
