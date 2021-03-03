@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/img_bg.jpg'})` }}>
+              <li style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/keyboard.jpg'})` }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -15,15 +15,14 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Yvan</h1>
-                            To do make a google doc with cv.
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/drive/folders/1q6yx1p0Nm0skuCDJsEzF1sJI8SL3zyk7?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
+                </div>   
               </li>
-              <li style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/retro.jpg'})` }}>
+              <li style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/forest.jpg'})` }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -31,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>Here are some of my projects</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/yvy777" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn smoothscroll" href="#projects" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>

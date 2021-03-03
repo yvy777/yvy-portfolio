@@ -10,7 +10,7 @@
      font-family: "Quicksand", Arial, sans-serif;
      font-weight: 400;
      font-size: 15px;
-     line-height: 1.8;
+     line-height: 1.6;
      color: rgba(0, 0, 0, 0.7);
 }
  @media screen and (max-width: 992px) {
@@ -75,7 +75,6 @@
 }
  #colorlib-aside {
      padding-top: 1em;
-     padding-bottom: 40px;
      float: left;
      width: 300px;
      position: fixed;
@@ -101,7 +100,7 @@
      width: 150px;
      height: 150px;
      margin: 0 auto;
-     margin-bottom: 30px;
+     margin-bottom: 15px;
      -webkit-border-radius: 50%;
      -moz-border-radius: 50%;
      -ms-border-radius: 50%;
@@ -459,7 +458,7 @@
      font-weight: 700;
      text-transform: uppercase;
      letter-spacing: 5px;
-     line-height: 1.8;
+     line-height: 1.6;
      position: relative;
 }
  .colorlib-heading span {
@@ -1071,7 +1070,7 @@
      background-position: center center;
      background-repeat: no-repeat;
      position: relative;
-     height: 300px;
+     height: 225px;
      width: 100%;
      display: block;
      margin-bottom: 30px;
@@ -1082,7 +1081,7 @@
      bottom: 0;
      left: 0;
      right: 0;
-     background: #2c98f0;
+     background: #3b3d40;
      opacity: 0;
      -webkit-transition: 0.3s;
      -o-transition: 0.3s;
@@ -1092,7 +1091,11 @@
      padding: 20px;
      display: block;
      position: relative;
-     height: 300px;
+     height: 225px;
+}
+
+.project .desc .con a:hover{
+    color: #44a4f2;
 }
  .project .desc .con .icon {
      position: absolute;
