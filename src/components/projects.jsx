@@ -34,7 +34,7 @@ export default class Projects extends Component {
 								<div className="project" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/Odeum_Sample.jpg'})` }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://drive.google.com/drive/folders/1LgijRx8x7mDZnr_aa9N0TRmYO1fKRdYB?usp=sharing">Ubisoft Contest 2019</a></h3>
+											<h3><a href="https://drive.google.com/drive/folders/1LgijRx8x7mDZnr_aa9N0TRmYO1fKRdYB?usp=sharing" target="_blank" rel="noopener noreferrer">Ubisoft Contest 2019</a></h3>
 											<span>Odeum</span>
 											<span>Made for the sake of ubisoft game lab 2019 with theme spectacle</span>
 											{/* <p className="icon">
@@ -50,7 +50,7 @@ export default class Projects extends Component {
 								<div className="project" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/TotallyNotCopyright.jpg'})` }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://drive.google.com/drive/folders/1qvaOgx1sN7EO96f7nABirqRy0Mvo_H3H?usp=sharing">Retro game look-alike made in Unity</a></h3>
+											<h3><a href="https://drive.google.com/drive/folders/1qvaOgx1sN7EO96f7nABirqRy0Mvo_H3H?usp=sharing" target="_blank" rel="noopener noreferrer">Retro game look-alike made in Unity</a></h3>
 											<span>Totally not copyright</span>
 											<span>Made as an integration project and for fun for last semester of university
 											as the team leader/developper :) with 5 others.
