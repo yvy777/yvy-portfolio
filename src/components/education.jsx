@@ -26,7 +26,7 @@ export default class Education extends Component {
                                             <div className="panel-body">
                                                 <p>Completed my BSc in computer Science at the <strong>"University of Sherbrooke. (2016-2020)"</strong></p>
                                                 <ul>
-                                                    <li>COOP profile(Cooperative education)</li>
+                                                    <li>COOP profile (Cooperative education)</li>
                                                     <li>Completed 4 interships</li>
                                                     <li>(3.75/4.3)</li>
                                                 </ul>
