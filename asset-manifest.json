@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yvy-portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/yvy-portfolio/static/js/main.de2a83dc.chunk.js",
-    "main.js.map": "/yvy-portfolio/static/js/main.de2a83dc.chunk.js.map",
+    "main.js": "/yvy-portfolio/static/js/main.f9c445ec.chunk.js",
+    "main.js.map": "/yvy-portfolio/static/js/main.f9c445ec.chunk.js.map",
     "runtime-main.js": "/yvy-portfolio/static/js/runtime-main.3410a205.js",
     "runtime-main.js.map": "/yvy-portfolio/static/js/runtime-main.3410a205.js.map",
     "static/js/2.604b3c31.chunk.js": "/yvy-portfolio/static/js/2.604b3c31.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3410a205.js",
     "static/js/2.604b3c31.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.de2a83dc.chunk.js"
+    "static/js/main.f9c445ec.chunk.js"
   ]
 }
