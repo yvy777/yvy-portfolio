@@ -21,12 +21,14 @@ export default class Timeline extends Component {
                     </div>
                     <div className="timeline-label">
                       <h2>Genetec | Full Time Cloud Software developer (AutoVu) <span>(2020-present)</span></h2>
-                      <p>C#, Typescript, MICROSOFT AZURE SERVICES, SWAGGER API, ANGULAR, SQL, WPF</p>
+                      <p>C#, TYPESCRIPT, MICROSOFT AZURE SERVICES, OPENAPI SPECIFICATION, ANGULAR, ETC. </p>
                       <ul>
-                        <li>Working on Cloud micro-services for a new full on-cloud application using Microsoft azure storage, service bus, azure functions, search Service, etc.</li>
-                        <li>Working on the license plate reconnaissance (LPR) module in Security Center.</li>
-                        <li>Adding functionality to already existing applications (Simulator, main platform, front-end) depending on needs for the on-premise solution.</li>
-                        <li>Making code reviews, integration and unit tests to ensure reliability.</li>
+                        <li>Currently working on an upcoming full-cloud Platform as a service (Paas) for the Security Center AutoVu automatic license plate recognition (ALPR)
+                          system. Paas targeting international cities, universities and airports to be used as their parking management software.</li>
+                        <li>Worked on the on-premise (ALPR) system used by Montreal-Trudeau airport, Danish police force, University of Wisconsin, City of Aspen etc.</li>
+                        <li>Used Angular, Typescript and other front-end libraries to design a user-facing web-app for live-monitoring/vehicle searching based on UX feedback.</li>
+                        <li>Used C#, Rest API, and Azure Cognitive Search for fast car reads data retrieval and back end support.</li>
+                        <li>Developed a visual studio code plugin to enhance programmers productivity to facilitate test template generation when writing unit tests.</li>
                       </ul>
                     </div>
                   </div>
@@ -40,8 +42,8 @@ export default class Timeline extends Component {
                       <h2>University of Sherbrooke <span>(Sep 2019-December 2019)</span></h2>
                       <p>TEACHER ASSISTANT</p>
                       <ul>
-                        <li>Assisted in grading and helping the students for the database structure course (Ift187).</li>
-                        <li>Assisted in grading and helping the students for the introduction to programming course (Ift159).</li>
+                        <li>Assisted in grading and helping the students for the database structure course. Using UML/ER Model, PostgreSQL, MySql etc. (Ift187).</li>
+                        <li>Assisted in grading and helping the students for the introduction to programming course in C++. (Ift159).</li>
                       </ul>
                     </div>
                   </div>
@@ -52,13 +54,12 @@ export default class Timeline extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>Genetec | Internship Cloud Software developer (AutoVu) <span>(Summer 2019)</span></h2>
-                      <p>C#, SWAGGER API, ANGULAR, SQL</p>
+                      <h2>Genetec | Cloud Software developer intern (AutoVu) <span>(Summer 2019)</span></h2>
+                      <p>C#, OPENAPI SPECIFICATION, ANGULAR, SQL, WPF </p>
                       <ul>
-                        <li>Worked on Cloud micro-services for an upcoming new parking session management software.</li>
-                        <li>Worked on the license plate reconnaissance (LPR) module in Security Center.</li>
-                        <li>Added functionality to already existing applications (Simulator, main platform, front-end) depending on needs.</li>
-                        <li>Made code reviews, integration and unit tests to ensure reliability.</li>
+                        <li>Worked on adding parking occupancy data retrieval mechanismand UI telemetry for anupcomingnewparking session management software using Open API Specification and C#.</li>
+                        <li>Enhanced user experience by adding a WPF email configuration page to the LPR module. A functionality used by customers such as police patrollers to notify them via email alerts when specific car reads are detected such as wanted cars or cars with special permits allowing faster response .</li>
+                        <li>Addednew functionalities and fixed bugs for the license plate reconnaissance (LPR) module in the Genetec Security Center unified security platform, third-party dlls, plugin and reads simulator.</li>
                       </ul>
                     </div>
                   </div>
@@ -69,13 +70,12 @@ export default class Timeline extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>Ubisoft Montreal | Intership Software tools developer (Synapse)) <span>(Autumn 2018)</span></h2>
-                      <p>C#, C++, MONGODB, SQL, GITLAB API</p>
+                      <h2>Ubisoft Montreal | Software developer tools intern (Synapse) <span>(Autumn 2018)</span></h2>
+                      <p>C#, C++, MONGODB, SQL, GITLAB API </p>
                       <ul>
-                        <li>Contributed on various projects (tools) used by different production teams according to the agile method.</li>
-                        <li>Added functionality to already existing applications (SDK, DLL, Data Capture System) depending on needs.</li>
-                        <li>Worked on features that needed work to be done on MongoDB database and Sql.</li>
-                        <li>Made code reviews, integration and unit tests to ensure reliability.</li>
+                        <li>Contributed to making available a newRest API to automatically update a pdb file package management software tool to the most recent successful job artifacts available in GitLab. Used by the VMS support team to automatize the package deployment to all on-going VMS instances saving lot of time and error prone issues.</li>
+                        <li>Added a session saving mechanism using SQL queries to the heat map data system. A telemetry tool used for game telemetry information (Fps) when play testing a game.</li>
+                        <li>Worked on supplying aggregated data using production data located in a Mongo Database to the Quebec team for their telemetry software.</li>
                       </ul>
                     </div>
                   </div>
@@ -86,11 +86,11 @@ export default class Timeline extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>Gurit Canada Inc. | Internship Software developer of web and statistical tools) <span>(Winter 2018)</span></h2>
+                      <h2>Gurit Canada Inc. | Software developer intern <span>(Winter 2018)</span></h2>
                       <p>C#, VB.NET, TRANSACT-SQL</p>
                       <ul>
-                        <li>Developed, upgraded and modified multiple front (ASP.Net) and back end components of the intern web architecture used by the workers.</li>
-                        <li>Provided additional statistical tools and/or functionality to the interfaces according to the needs and mandates requested.</li>
+                        <li>Added new functionality to the worksheets information interface used by factory workers when processing composite materials.</li>
+                        <li>Provided additional statistical tools and/or functionality to the interfaces according to the needs and mandates requested by the product/sales managers.</li>
                       </ul>
                     </div>
                   </div>
@@ -101,11 +101,11 @@ export default class Timeline extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>University of Sherbrooke’s laboratory of bio-informatics | Web application developer) <span>(Summer 2017)</span></h2>
-                      <p>PYTHON, LINUX</p>
+                      <h2>University of Sherbrooke’s laboratory of bio-informatics | Software developer intern ) <span>(Summer 2017)</span></h2>
+                      <p>PYTHON, DJANGO, LINUX </p>
                       <ul>
-                        <li>Developed a web application in python using a genomic database on Linux for the conception of a genomic application.</li>
-                        <li>Improved a visualization project concerning the inclusion of motifs and protein domains in a Genome Browser..</li>
+                        <li>Developed a web application in python with the Django framework using a genomic database on Linux for the conception of a genomic application.</li>
+                        <li>Improved a 2d visualization project made with Python PIL for a dynamic rendering of motifs inclusions and protein domains in a Genome Browser.</li>
                       </ul>
                     </div>
                   </div>

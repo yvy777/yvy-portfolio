@@ -20,7 +20,8 @@ export default class About extends Component {
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p> I am a computer software developper who likes to learn new technologies, try my
                                                 hand on many things and learning from people. </p>
-                                            <p>I'm also a lover of video-gaming, animes, mangas and tabletop games and other geek stuffs :)</p>
+                                            <p>I enjoy traveling, going to restaurants and drinking some beer sometimes.</p>
+                                            <p>I'm also a lover of video-gaming, animes, mangas, tabletop games and other geek stuffs :)</p>
                                         </div>
                                     </div>
                                 </div>

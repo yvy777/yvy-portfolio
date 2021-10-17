@@ -17,8 +17,8 @@ export default class Projects extends Component {
 								<div className="project" style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/Chip8.jpg'})` }}>
 									<div className="desc">
 										<div className="con">
-											<h3>Chip 8 emulator (On-going)</h3>
-											<span>Game emulator/interpreter made in c++ closer to assembly to understand
+											<h3>Chip 8 emulator</h3>
+											<span>Game emulator/interpreter made in C++ closer to assembly to understand
 												more about the basics.
 											</span>
 											{/* <p className="icon">
